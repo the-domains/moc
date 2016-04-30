@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Computer forms since 1980]]></title>
         <description><![CDATA[Computer forms since 1980]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 10:32:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 10:32:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/087e2ac0-a192-4e5e-b3d4-816bcde35390.jpg">]]></description>
+            <link>https://thegrid.ai/moc/15635219-39a0-4445-b33d-1f763d8de57a/index.html</link>
+            <guid isPermaLink="false">15635219-39a0-4445-b33d-1f763d8de57a</guid>
+            <pubDate>Sat, 30 Apr 2016 10:32:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MOC Prints Sdn Bhd]]></title>
             <description><![CDATA[<article><h1>MOC Prints Sdn Bhd</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/100b53fe-9b7c-47d9-9427-6fb276d4a159.jpg"></article>]]></description>
-            <link>undefinedmoc-prints-sdn-bhd/index.html</link>
+            <link>https://thegrid.ai/moc/moc-prints-sdn-bhd/index.html</link>
             <guid isPermaLink="false">34752024-837d-4221-acd7-d8997f036ea8</guid>
             <pubDate>Sat, 30 Apr 2016 10:32:10 GMT</pubDate>
         </item>
