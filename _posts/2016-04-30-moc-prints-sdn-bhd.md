@@ -5,21 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-30T10:32:10.296Z'
-dateModified: '2016-04-30T10:23:49.081Z'
+datePublished: '2016-04-30T10:45:37.502Z'
+dateModified: '2016-04-30T10:38:45.746Z'
 title: MOC Prints Sdn Bhd
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-30-moc-prints-sdn-bhd.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-30-moc-prints-sdn-bhd.md
-published: true
+starred: true
 url: moc-prints-sdn-bhd/index.html
 _type: Article
 
